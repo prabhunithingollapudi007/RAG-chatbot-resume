@@ -1,14 +1,3 @@
----
-title: Prabhu Nithin Gollapudi - Personal AI Chatbot
-emoji: 🤖
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.50.0
-app_file: app.py
-pinned: true
----
-
 # Prabhu Nithin Gollapudi - Personalized Chatbot
 A personalized AI chatbot that responds as if it's Prabhu Nithin Gollapudi himself, using LangChain, FAISS, Streamlit, and Google's Gemini API. It pre-loads Prabhu's resume so anyone can chat with him about his experience, skills, and interests.
 
