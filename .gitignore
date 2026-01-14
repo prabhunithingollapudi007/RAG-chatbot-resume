@@ -1,0 +1,8 @@
+venv/
+
+.env
+
+resume.pdf
+
+*.pyc
+profile_image.png
